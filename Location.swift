@@ -1,9 +1,4 @@
 //
-//  Location.swift
-//  Bucketlist
-//
-//  Created by Dhruv Bhardwaj on 04/09/22.
-//
 
 import Foundation
 import MapKit
